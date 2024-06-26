@@ -1,6 +1,6 @@
 # jogo-em-javascript
  Este Redmi te guiará passo a passo pelo código, desvendando seus segredos e te ensinando conceitos importantes de forma intuitiva, lúdica e educativa.
- Detalhe especial este jogo possui assesibilidade inclusa de voz pelo navegador, essa funcionalidade torna o jogo mais inclusivo e democrático, permitindo que todos possam desfrutar da experiência de jogar, independentemente de suas habilidades físicas.
+ Detalhe especial este jogo possui acessibilidade inclusa de voz pelo navegador, essa funcionalidade torna o jogo mais inclusivo e democrático, permitindo que todos possam desfrutar da experiência de jogar, independentemente de suas habilidades físicas.
  Acesse o link e texte o jogo:
  https://jogo-lake-phi.vercel.app/
 
